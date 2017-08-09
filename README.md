@@ -1,2 +1,4 @@
 # hello-world
-create a New Repository
+Hi Humans!
+My name's Den
+Iam from Vietnam
